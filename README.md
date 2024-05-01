@@ -44,12 +44,12 @@ Go to http://localhost:<PORT_NUMBER>
 
 ## How the Dashboard looks
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_1.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_1.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_2.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_2.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_3.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_3.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_4.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_4.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_5.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_5.png)
