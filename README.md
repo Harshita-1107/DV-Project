@@ -40,16 +40,16 @@ Go to http://localhost:<PORT_NUMBER>
 
 ## Example: Sentiment Analysis Results
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/TextBlob_Sentiment_Analysis.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/TextBlob_Sentiment_Analysis.png)
 
 ## How the Dashboard looks
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/Screenshot_Page_1.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_1.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/Screenshot_Page_2.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_2.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/Screenshot_Page_3.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_3.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/Screenshot_Page_4.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_4.png)
 
-![](https://github.com//Harshita-1107/DV-Project/blob/master/plots/Screenshot_Page_5.png)
+![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/Screenshot_Page_5.png)
