@@ -40,7 +40,7 @@ Go to http://localhost:<PORT_NUMBER>
 
 ## Example: Sentiment Analysis Results
 
-![](https://github.com//Harshita-1107/DV-Project/blob/main/plots/TextBlob_Sentiment_Analysis.png)
+![](https://github.com/Harshita-1107/DV-Project/blob/main/plots/TextBlob_Sentiment_Analysis.png)
 
 ## How the Dashboard looks
 
